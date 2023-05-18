@@ -1,5 +1,5 @@
-//go:build loong64
-// +build loong64
+//go:build mips64
+// +build mips64
 
 package bolt
 
